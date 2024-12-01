@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+}
+.container{
+    background-color: rgb(172, 188, 148);
+    border-radius: 20px;
+    display: flex;
+    display: inline-block;
+}
+.msg{
+    padding: 10px;
+    background-color:rgb(190, 208, 165); 
+    border-radius: 20px;
+    margin: 5px;
+}
+
+button{
+    padding: 10px;
+    border: 2px solid rgb(205, 172, 129);
+    border-radius: 10px;
+    background-color:honeydew;
+}
+
+p{
+    margin: 10px;
+}
